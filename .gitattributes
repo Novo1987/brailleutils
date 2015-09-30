@@ -1,0 +1,22 @@
+* text=auto !eol
+/BrailleUtilsDesign.wiki -text
+/Changes.wiki -text
+/DeveloperSidebar.wiki -text
+/DevelopersGuide.wiki -text
+/DevelopmentPhases.wiki -text
+/Emboss.wiki -text
+/GeneratePef.wiki -text
+/JarPlugins.wiki -text
+/Javadoc.wiki -text
+/MergePef.wiki -text
+/PefToText.wiki -text
+/RepositoryLayout.wiki -text
+/SplitPef.wiki -text
+/SupportedEmbossers.wiki -text
+/TextToPef.wiki -text
+/UnicodeBraillePatterns.wiki -text
+/UsersGuide.wiki -text
+/UsersSidebar.wiki -text
+/ValidatePef.wiki -text
+/VersionNumbering.wiki -text
+/WhyUsePef.wiki -text
